@@ -1,0 +1,4 @@
+This text file is for testing of the sender app purposes.
+This is text for testing...
+End of file<->||<->goodbye.
+.

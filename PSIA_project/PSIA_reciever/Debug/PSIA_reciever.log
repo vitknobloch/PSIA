@@ -1,0 +1,3 @@
+﻿  PSIA_reciever.cpp
+C:\Users\vitak\ownCloud\PSIA\PSIA_project\PSIA_reciever\PSIA_reciever.cpp(52,7): warning C4101: 'buffer_tx': unreferenced local variable
+  PSIA_reciever.vcxproj -> C:\Users\vitak\ownCloud\PSIA\PSIA_project\Debug\PSIA_reciever.exe

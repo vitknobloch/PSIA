@@ -1,0 +1,4 @@
+﻿  PSIA_sender.cpp
+C:\Users\vitak\ownCloud\PSIA\PSIA_project\PSIA_sender\file_loader.h(7,2): warning C4091: 'typedef ': ignored on left of 'file_t' when no variable is declared
+C:\Users\vitak\ownCloud\PSIA\PSIA_project\PSIA_sender\PSIA_sender.cpp(64,7): warning C4101: 'buffer_rx': unreferenced local variable
+  PSIA_sender.vcxproj -> C:\Users\vitak\ownCloud\PSIA\PSIA_project\Debug\PSIA_sender.exe
